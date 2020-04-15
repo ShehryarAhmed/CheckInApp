@@ -8,7 +8,6 @@
             android:id="@+id/nav_home"
             android:icon="@drawable/ic_assessment_black_24dp"
             android:title="Check Report" />
-
     </group>
 
 
